@@ -1,0 +1,3 @@
+perl snp-scale_pd.pl -infile Sept22_2019.fa -summary_file Sept22_2019_summary.csv -result_file Sept22_2019_results.txt - min_primer_length 15 -asfp_min_tm 58 -lsrp_min_tm 63 -lsrp_opt_tm 65 -lsrp_max_tm 67 -product_size 30-90
+
+perl snp-scale_pd.pl -infile Sept22_2019.fa -summary_file test.csv -result_file Sept22_2019_results.txt -product_size 25-350
