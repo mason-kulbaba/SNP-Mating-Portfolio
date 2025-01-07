@@ -4,3 +4,8 @@ Sequence data to accompany the manuscript "A SNP-based approach to estimating th
 The first line of each entry is the name of each SNP-SCALE locus, followed by the sequence that the locus was designed from. The bi-allelic variable nucleotides are indicted with capital letters and separated by a "/".
 
 cstacks pipeline is available at https://catchenlab.life.illinois.edu/stacks/comp/cstacks.php, with specific parameter settings available in the manuscirpt. 
+
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14610771.svg)](https://doi.org/10.5281/zenodo.14610771)
+
